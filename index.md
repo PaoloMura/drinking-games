@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Solo Cup Games
+# Solo Cup/Team Games
 
 ## Beer Pong
 
@@ -12,6 +12,17 @@ layout: default
 ## Flip Cup
 
 *Better than beer pong.*
+
+
+## Boat Race
+
+*No tactics. Just drink. Only for large teams.*
+
+1. Each team member stands next to each other.
+2. One at a time they have to down their drink as fast as they can.
+3. Once done, turn the cup upside down on your head.
+4. Only then can the next person continue.
+5. First team to finish wins.
 
 
 ## Slap Cup
@@ -35,13 +46,38 @@ layout: default
 
 *The OG classic.*
 
+Ace: Waterfall |
+2: You |
+3: Me |
+4: Whores |
+5: Thumbs |
+6: Dicks |
+7: Heaven |
+8: Mate |
+9: Rhyme |
+10: Category |
+Jack: Rule |
+Queen: Question |
+King: Cup
+
 ## Bus Driver
 
 *Fantastic way to bully one individual.*
 
+1. Red or black?
+2. Higher or lower?
+3. In between or outside?
+4. Hearts, spades, clubs or diamonds?
+
 ## Pyramid/Fuck You
 
 *Simple, great game for strangers.*
+
+1. Arrange the cards face down in a pyramid with five layers.
+2. Deal the remaining cards to the players.
+3. Starting from the base of the pyramid, turn over a card.
+4. If you have a matching value card, you can choose to place it on top and say "Fuck you {someone's name}", dealing out a sip to them.
+5. The number of sips you can dish out increases with each layer of the pyramid.
 
 
 * * *
@@ -51,6 +87,13 @@ layout: default
 ## Liar's Dice
 
 *Requires a significant amount of brain wattage.*
+
+1. Everyone is given a solo cup and 5 dice.
+2. Shake the dice around in the cup and turn it upside down on the table, covering your dice.
+3. Look at your dice, but don't show anyone else.
+4. One at a time, anounce your bet on how many of a certain number there are in total (e.g. five 3s).
+5. Each person must **either** make a higher bet (e.g. five 4s) **or** call their predecessor out as a liar.
+6. If you get called out as a liar, everyone must reveal their dice. If you are indeed a liar, drink. Otherwise, the caller drinks.
 
 ## Shot Roulette
 
