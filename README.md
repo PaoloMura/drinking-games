@@ -1,4 +1,0 @@
-# Drinking Games
-
-
-Hello World!
